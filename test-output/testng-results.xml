@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2019-06-19T17:54:41Z" finished-at="2019-06-19T17:54:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2019-06-19T17:54:41Z" finished-at="2019-06-19T17:54:41Z">
+      <class name="PracticeTestNG.ClassTest">
+        <test-method status="PASS" signature="BC()[pri:0, instance:PracticeTestNG.ClassTest@6ea12c19]" name="BC" is-config="true" duration-ms="12" started-at="2019-06-19T23:24:41Z" finished-at="2019-06-19T23:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method status="PASS" signature="FirstScript()[pri:0, instance:PracticeTestNG.ClassTest@6ea12c19]" name="FirstScript" duration-ms="7" started-at="2019-06-19T23:24:41Z" finished-at="2019-06-19T23:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstScript -->
+        <test-method status="PASS" signature="AC()[pri:0, instance:PracticeTestNG.ClassTest@6ea12c19]" name="AC" is-config="true" duration-ms="1" started-at="2019-06-19T23:24:41Z" finished-at="2019-06-19T23:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- PracticeTestNG.ClassTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

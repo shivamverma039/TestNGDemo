@@ -13,7 +13,7 @@ public class DependsOnMethodTest
 	@Test(dependsOnMethods={"CreateNewCustomer"})
 	public void CreateNewProject()
 	{
-		System.out.println("Project Created")
+		System.out.println("Project Created");  //creating error
 	}
 	//It will skip because of above Error
 	@Test(dependsOnMethods={"CreateNewCustomer","CreateNewProject"})
